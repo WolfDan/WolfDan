@@ -8,6 +8,7 @@ In depth love with [Elixir](https://github.com/elixir-lang/elixir) but I also kn
 
 If you want to know more about me there's not much left to say that I'm a music lover and I like anime and video games a lot
 
+**Remote jobs only, but feel free to contact me in any case**
 <!--
 **WolfDan/WolfDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
