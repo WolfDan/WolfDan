@@ -1,4 +1,12 @@
-### Hi there 👋
+### WolfDan
+
+[![WolfDan's github stats](https://grs.neet.club/api?username=WolfDan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Hey! I'm a self-taught backend programmer! Interested on distributed systems, databases, video game servers and new technologies!
+
+In depth love with [Elixir](https://github.com/elixir-lang/elixir) but I also know plenty of other languages such as C#, Rust, Python, Reasonml (ReScript)! And eager to learn more!
+
+If you want to know more about me there's not much left to say that I'm a music lover and I like anime and video games a lot
 
 <!--
 **WolfDan/WolfDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
