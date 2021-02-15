@@ -1,6 +1,6 @@
 ### WolfDan
 
-[![WolfDan's github stats](https://grs.neet.club/api?username=WolfDan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![WolfDan's github stats](https://github-readme-stats.vercel.app/api?username=WolfDan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Hey! I'm a self-taught backend programmer! Interested on distributed systems, databases, video game servers and new technologies!
 
