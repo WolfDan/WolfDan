@@ -4,7 +4,7 @@
 
 Hey! I'm a self-taught backend programmer! Interested on distributed systems, databases, video game servers and new technologies!
 
-In depth love with [Elixir](https://github.com/elixir-lang/elixir) but I also know plenty of other languages such as C#, Rust, Python, Reasonml (ReScript)! And eager to learn more!
+In depth love with [Elixir](https://github.com/elixir-lang/elixir) but I also know plenty of other languages such as Swift, C#, Rust, Python, And eager to learn more!
 
 If you want to know more about me there's not much left to say that I'm a music lover and I like anime and video games a lot
 
